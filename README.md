@@ -6,10 +6,10 @@
 
 ## 📂 Files Included  
 - `Machine_learning_and_visualization.pdf` → Full report with code, analysis, and recommendations.  
-- `customer_churn_dataset-training.csv` → Training dataset (if available).  
-- `customer_churn_dataset-testing.csv` → Testing dataset (if available).  
-- `churn_analysis.ipynb` → Jupyter Notebook with Python code (if available).  
-- `churn_dashboard.twbx` → Tableau dashboard file (if available).  
+- `customer_churn_dataset-training.csv` → Training dataset.  
+- `customer_churn_dataset-testing.csv` → Testing dataset.  
+- `churn_analysis.ipynb` → Jupyter Notebook with Python code.  
+- `churn_dashboard.twbx` → Tableau dashboard file.  
 - `images/` → Visuals and charts from the analysis.  
 
 ---
@@ -36,7 +36,6 @@
 ---
 
 ## 🖼️ Dashboard Preview  
-*(Add screenshot here if available — just drag an image into the repo and link it)*  
 
 ---
 
